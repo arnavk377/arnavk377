@@ -2,7 +2,9 @@
 Check out my [LinkedIn](https://www.linkedin.com/in/arnav-kanekar-a108b2279/)!
 
 I'm interested in learning about general coding skills and more data focused skills.  
-I have used Python and SQL for API design and have used Javascript and HTMl for basic Web design.
+I have used Python and SQL for API design and have used Javascript and HTMl for basic Web design.  
+
+Here is a [link](https://arnavk377.github.io/FirstFastPage/) to the website I used to log my work on during my *AP Computer Science Principles* class.  
 
 <!--
 **arnavk377/arnavk377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
