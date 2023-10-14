@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hey there! I'm Arnav, a 1st year Data Science Student at UC Irvine.  
+Check out my [LinkedIn](https://www.linkedin.com/in/arnav-kanekar-a108b2279/)!
+
+I'm interested in learning about general coding skills and more data focused skills.  
+I have used Python and SQL for API design and have used Javascript and HTMl for basic Web design.
 
 <!--
 **arnavk377/arnavk377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
