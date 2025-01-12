@@ -1,10 +1,12 @@
-#### Hey there! I'm Arnav, a 1st year Data Science Student at UC Irvine.  
+#### Hey there! I'm Arnav, a 2nd year Data Science Student at UC Irvine.
+
+I have an interest in statistics and how they can be applied to find interesting anomalies.
+Currently, I'm working on a football and data analysis blog, Hooked on Falcons. I collect and analyze football data to create reports for each game. Check it out [here](https://github.com/arnavk377/hookedonfalcons)!
+
+I have experience working in Python, R, Javascript, C++ for a variety of tasks, from data cleaning to web development.
+
+Check out my [Tableau Public Page](https://public.tableau.com/app/profile/arnav.kanekar/vizzes)!
 Check out my [LinkedIn](https://www.linkedin.com/in/arnav-kanekar-a108b2279/)!
-
-I'm interested in learning about general coding skills and more data focused skills.  
-I have used Python and SQL for API design and have used Javascript and HTMl for basic Web design.  
-
-Here is a [link](https://arnavk377.github.io/FirstFastPage/) to the website I used to log my work on during my *AP Computer Science Principles* class.  
 
 <!--
 **arnavk377/arnavk377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
