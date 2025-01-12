@@ -6,6 +6,7 @@ Currently, I'm working on a football and data analysis blog, Hooked on Falcons. 
 I have experience working in Python, R, Javascript, C++ for a variety of tasks, from data cleaning to web development.
 
 Check out my [Tableau Public Page](https://public.tableau.com/app/profile/arnav.kanekar/vizzes)!
+
 Check out my [LinkedIn](https://www.linkedin.com/in/arnav-kanekar-a108b2279/)!
 
 <!--
