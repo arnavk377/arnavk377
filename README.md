@@ -4,6 +4,8 @@ PLAYMAKER - A Computer Vision Project ⬇️
 
 https://drive.google.com/file/d/1zBi243xPrj52ICX20pe6MLBQOC3c2fKn/view?usp=sharing
 
+![image](https://github.com/user-attachments/assets/6b98958f-346b-49b6-826c-f4e439ec3e76)
+
 Check out my [Tableau Public Page](https://public.tableau.com/app/profile/arnav.kanekar/vizzes)!
 
 Check out my [LinkedIn](https://www.linkedin.com/in/arnav-kanekar-a108b2279/)!
