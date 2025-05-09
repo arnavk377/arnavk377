@@ -1,9 +1,8 @@
-#### Hey there! I'm Arnav, a 2nd year Data Science Student at UC Irvine.
+#### Hi! My name is Arnav!
 
-I have an interest in statistics and how they can be applied to find interesting anomalies.
-Currently, I'm working on a football and data analysis blog, Hooked on Falcons. I collect and analyze football data to create reports for each game. Check it out [here](https://github.com/arnavk377/hookedonfalcons)!
+PLAYMAKER - A Computer Vision Project ⬇️
 
-I have experience working in Python, R, Javascript, C++ for a variety of tasks, from data cleaning to web development.
+https://drive.google.com/file/d/1zBi243xPrj52ICX20pe6MLBQOC3c2fKn/view?usp=sharing
 
 Check out my [Tableau Public Page](https://public.tableau.com/app/profile/arnav.kanekar/vizzes)!
 
