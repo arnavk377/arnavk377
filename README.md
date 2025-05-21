@@ -2,7 +2,7 @@
 
 PLAYMAKER - A Computer Vision Project ⬇️
 
-https://drive.google.com/file/d/1zBi243xPrj52ICX20pe6MLBQOC3c2fKn/view?usp=sharing
+https://www.figma.com/deck/14Ozncb0HOKXlRLAtJCO6J/PlayMaker?node-id=2-42&t=YREr9jHakONgJMDA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ![image](https://github.com/user-attachments/assets/6b98958f-346b-49b6-826c-f4e439ec3e76)
 
